@@ -2,7 +2,7 @@
 
 ## How to use:
     $ python main.py --query {query}
-###### example:
+## example:
     $ python main.py --query="Trump Biden Taiwan China"
 
 After the query,there will be five outputs:
