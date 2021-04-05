@@ -19,8 +19,6 @@ class VectorSpace:
     separate term. If a term occurs in the document, then the value in the vector is non-zero.
     """
     documents = []
-    # Collection of document term vectors
-    documentVectors = []
 
     # Mapping of vector index to keyword
     vectorKeywordIndex = []
@@ -35,7 +33,7 @@ class VectorSpace:
     parser = None
 
     def __init__(self, documents=[]):
-        self.documentVectors = []
+        # self.documentVectors = []
         self.tfVec = []
         self.tfidfVec = []
         self.parser = Parser()
