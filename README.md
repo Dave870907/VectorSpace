@@ -12,4 +12,11 @@
 * TF-IDF Weighting + Euclidean Distance
 * Relevance Feedback + TF-IDF Weighting + Cosine Similarity
 
-# Files:
+## Files:
+* **EnglishNews**: 
+    collection of english news
+* main.py: 
+    main execution file
+* Parser.py: 
+    clean,remove stop words,tokenise the documents
+* 
