@@ -5,7 +5,7 @@
 ## example:
     $ python main.py --query="Trump Biden Taiwan China"
 
-After the query,there will be five outputs:
+    After the query,there will be five outputs:
 * Term Frequency (TF) Weighting + Cosine Similarity
 * Term Frequency (TF) Weighting + Euclidean Distance
 * TF-IDF Weighting + Cosine Similarity
