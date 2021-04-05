@@ -13,10 +13,14 @@
 * Relevance Feedback + TF-IDF Weighting + Cosine Similarity
 
 ## Files:
-* **EnglishNews**: 
+* **EnglishNews:** 
+
     collection of english news
-* main.py: 
+    
+* main.py:
+ 
     main execution file
+
 * Parser.py: 
+
     clean,remove stop words,tokenise the documents
-* 
