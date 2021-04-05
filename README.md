@@ -11,3 +11,5 @@
 * TF-IDF Weighting + Cosine Similarity
 * TF-IDF Weighting + Euclidean Distance
 * Relevance Feedback + TF-IDF Weighting + Cosine Similarity
+
+# Files:
