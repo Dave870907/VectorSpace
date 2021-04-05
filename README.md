@@ -1,4 +1,4 @@
-# WSM Project 1: Ranking by Vector Space Models
+# *WSM Project 1: Ranking by Vector Space Models*
 
 ## How to use:
     $ python main.py --query {query}
@@ -17,10 +17,25 @@
 
     collection of english news
     
-* main.py:
+* **main.py:**
  
     main execution file
 
-* Parser.py: 
+* **Parser.py:** 
 
     clean,remove stop words,tokenise the documents
+
+* **PorterStemmer.py:**
+
+    the Porter stemming algorithm, ported to Python from the version coded up in ANSI C by the author.
+
+* **util.py:**
+
+    utilities like tf, idf weighting, and cosine similarity and distance function
+    
+* **VectorSpace.py:**
+
+    class of vectorSpaceModel
+    
+## Output:
+![截圖 2021-04-05 下午9 53 18](https://user-images.githubusercontent.com/44217401/113581165-5a873c00-9659-11eb-9bb7-aafc72c71813.png)
