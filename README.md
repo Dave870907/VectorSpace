@@ -17,6 +17,10 @@
 
     collection of english news
     
+* **English.stop:** 
+
+    collection of english stop words
+    
 * **main.py:**
  
     main execution file
